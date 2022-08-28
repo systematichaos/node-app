@@ -30,3 +30,8 @@ webpush.setVapidDetails('mailto:asmin.timsina@gmail.com', publicVapidKey,private
 
 //set the static path 
 app.use(express.static(path.join(__dirname, "client")));
+
+const port = 3200;
+app.listen(port, ()=>{
+    console.log(`server started on ${port}`)
+});

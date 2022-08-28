@@ -1,0 +1,1 @@
+const publicVapidKey = 'BIeIMD-Ya8oPPnShK1nox8it5aIRXRE8toQaMMLnqUwYBaMvhVz7IMVW53AQQeAoel7SgpfHk8mVWLEdf1rHOCQy';
